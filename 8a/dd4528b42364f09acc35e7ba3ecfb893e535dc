@@ -1,0 +1,19 @@
+index.html
+  s_42c009545f7c55::t_8315dea9308064 11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "8add4528b42364f09acc35e7ba3ecfb893e535dc",
+  "prompts": {},
+  "sessions": {
+    "s_42c009545f7c55": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0bac4-4154-7671-862a-775e1d0a4b72",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": "swindu3 <swindu3@users.noreply.github.com>"
+    }
+  }
+}
